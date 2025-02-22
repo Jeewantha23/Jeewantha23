@@ -46,9 +46,11 @@
 <a href="https://twitter.com/jeewantha23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeewantha23" height="50" width="40" /></a>
 
 <a href="https://linkedin.com/in/jeewantha priyasad" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Jeewantha Priyasad" height="50" width="50" /></a>
+
+<a href="https://fb.com/jeewantha priyasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jeewantha Priyasad" height="50" width="50" /></a>
+
+<a href="https://instagram.com/jeewantha_priyasad" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Jeewantha Priyasad" height="50" width="50" /></a>
   
-<a href="https://fb.com/jeewantha priyasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeewantha priyasad" height="30" width="40" /></a>
-<a href="https://instagram.com/jeewantha_priyasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeewantha_priyasad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
