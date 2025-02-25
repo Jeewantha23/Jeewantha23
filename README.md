@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeewantha Priyasad</h1>
+
 <h3 align="center">I am a software developer Undergraduate passionate About Programming.I like Automating things,problem-solving,and improving Efficiency and performance.I am interesting Web Development,UI,UX Designing,Machine Learning.</h3>
 
 <img align="right" alt ="coding" width ="400" src ="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
